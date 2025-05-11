@@ -1,3 +1,8 @@
+# AI Recipe Generator
+Serverless app hosted on AWS. Followed tutorial on [AWS](https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-amplify-bedrock-cognito-gen-ai/module-one/)
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
